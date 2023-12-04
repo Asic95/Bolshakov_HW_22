@@ -1,4 +1,4 @@
-package Exercise_2;
+package hellocucumber;
 
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;

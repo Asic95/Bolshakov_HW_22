@@ -1,9 +1,8 @@
-hellocucumber\Stepdefs.class
-Exercise_33\RunCucumberTest.class
-hellocucumber\RunCucumberTest.class
 hellocucumber\StepDefinitions.class
-Exercise_2\BaseTestClass.class
-Exercise_33\StudentsStep.class
-Exercise_33\Student.class
-Exercise_2\Bolshakov_HW_12.class
+hellocucumber\Stepdefs.class
+hellocucumber\Bolshakov_HW_12.class
+hellocucumber\RunCucumberTest.class
+hellocucumber\StudentsStep.class
+hellocucumber\Student.class
+hellocucumber\BaseTestClass.class
 hellocucumber\IsItFriday.class
