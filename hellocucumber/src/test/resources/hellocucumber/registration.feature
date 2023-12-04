@@ -1,7 +1,7 @@
 Feature: WebSite registration
   Check if I can use some specific emails to end the registration
 
-  Scenario Outline: Today is or is not Friday
+  Scenario Outline: Check different email during registration
     Given I use "<email>"
     When Try to create new account on the website
     Then I received message "<result>"
